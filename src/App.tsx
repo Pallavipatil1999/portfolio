@@ -10,6 +10,12 @@ const EMAIL = "pallavikpatil99@gmail.com";
 const PHONE = "+91 7972877554";
 const LINKEDIN = "https://www.linkedin.com/in/pallavi-patil-1b5786212";
 const GITHUB = "https://github.com/Pallavipatil1999/pallavipatil1999";
+const handleDownload = () => {
+  window.open(
+    "https://drive.google.com/uc?export=download&id=14BD2I6WStIKrlVGpqTlVssrij5_wHBw5",
+    "_blank"
+  );
+};
 
 const skills = [
   { name: "AWS", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" },
