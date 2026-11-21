@@ -320,7 +320,7 @@ export default function App() {
 
               <p className="hero-description">
                 AWS Cloud Engineer / DevOps Engineer with{" "}
-                <strong style={{ color: "#fff" }}>3+ years of hands-on experience</strong> in cloud
+                <strong style={{ color: "#fff" }}>2+ years of hands-on experience</strong> in cloud
                 infrastructure, CI/CD automation, Infrastructure as Code, containerization,
                 Kubernetes, monitoring, and Linux administration. Proven track record of designing
                 automated AWS environments with{" "}
